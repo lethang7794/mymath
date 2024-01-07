@@ -13,5 +13,5 @@ type Number interface {
 //
 // [Addition]: https://www.mathsisfun.com/numbers/addition.html
 func Add[T Number](x, y T) T {
-	return x + y
+	return y + x
 }
