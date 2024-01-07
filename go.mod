@@ -1,4 +1,4 @@
-module github.com/lethang7794/mymath
+module github.com/lethang7794/mymath/v2
 
 go 1.21.5
 
