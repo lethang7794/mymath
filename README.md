@@ -1,2 +1,3 @@
-# mymodule
+# mymath
+
 An example Go module
